@@ -1,0 +1,29 @@
+{
+  "name": "parker-scss",
+  "version": "1.0.0",
+  "description": "Parse SCSS files with Parker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiorodriguez/parker-scss.git"
+  },
+  "keywords": [
+    "parker",
+    "scss",
+    "cli"
+  ],
+  "author": "Claudio Rodriguez <cjrodr@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudiorodriguez/parker-scss/issues"
+  },
+  "homepage": "https://github.com/claudiorodriguez/parker-scss#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "node-sass": "^3.7.0",
+    "parker": "0.0.10"
+  }
+}
